@@ -14,8 +14,6 @@ This project analyzes the relationship between total minutes played and total po
 
 ## Key Findings
 
-## Key Findings
-
 | Metric | Value | Interpretation |
 |--------|-------|----------------|
 | Correlation (r) | 0.14 | Weak positive relationship |
