@@ -2,7 +2,7 @@
 
 **Author:** Muhammad Syawaluddin Bin Adzran
 
-**Data Source:** [NBA.com Official Statistics](https://www.https://www.nba.com/stats/players/traditional?PerMode=Totals&Season=2023-24&sort=MIN&dir=-1&SeasonType=Regular+Season)
+**Data Source:** [NBA.com Official Statistics](https://www.nba.com/stats/players/traditional?PerMode=Totals&Season=2023-24&sort=MIN&dir=-1&SeasonType=Regular+Season)
 
 ---
 
