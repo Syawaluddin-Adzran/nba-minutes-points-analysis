@@ -64,7 +64,7 @@ This rule changed how coaches manage minutes. Players who want awards must play 
 
 | Term                   | Value                                                        | Interpretation                               |
 |:-----------------------|:-------------------------------------------------------------|:---------------------------------------------|
-| **Slope (0.46)**       | Each additional minute played adds 0.46 points               | Very small effect — minutes barely matter    |
+| **Slope (0.46)**       | Each additional minute played adds 0.46 points               | Very small effect as minutes barely matter    |
 | **Intercept (452.08)** | A player with 0 minutes would theoretically score 452 points | Not realistic, but mathematically necessary  |
 | **R-squared (0.02)**   | Minutes explain only 2% of scoring variation                 | 98% of scoring is explained by OTHER factors |
 
@@ -86,7 +86,7 @@ If a player plays 3000 minutes:
 
 - **Luka Doncic** scored 2,370 points (2nd most) while playing only 2,624 minutes (20th most)
 - **Josh Hart** played 2,707 minutes (11th most) but scored only 761 points as he contributes through defense and rebounding
-- **Rudy Gobert** won DPOY while ranking #22 in minutes and averaging only 14.0 points per game proving that defensive impact matters more than scoring or playing time
+- **Rudy Gobert** won DPOY while rank number 22 in minutes played and averaging only 14.0 points per game proving that defensive impact matters more than scoring or playing time
 
 ---
 
