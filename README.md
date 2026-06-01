@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-This project analyzes the relationship between total minutes played and total points scored for the 30 NBA players with the most minutes in the2023-24 regular season.
+This project analyzes the relationship between total minutes played and total points scored for the 30 NBA players with the most minutes in the 2023-24 regular season.
 
 **Motivation:** The NBA introduced a new 65-game rule for award eligibility (Most Valuable Player, Defensive Player of the Year, All-NBA teams, All-Defensive Teams), making minutes played more important than ever. This analysis asks: *Does playing more minutes actually lead to more points?*
 
