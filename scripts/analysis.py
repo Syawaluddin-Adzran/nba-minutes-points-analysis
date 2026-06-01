@@ -1,5 +1,5 @@
 """
-NBA 2023-24 Analysis: Minutes Played vs Points Scored
+NBA 2023-24 Analysis: Minutes vs Points Analysis
 """
 
 import pandas as pd
@@ -15,8 +15,8 @@ os.makedirs('../outputs', exist_ok=True)
 # PART 1: LOAD DATA
 # ============================================
 df = pd.read_csv('../data/nba_players.csv')
-print("✅ Data loaded")
-print(f"   {len(df)} players\n")
+print("Data loaded")
+print(f"{len(df)} players")
 
 # ============================================
 # PART 2: DESCRIPTIVE STATISTICS
@@ -133,4 +133,4 @@ print(df.nsmallest(5, 'Points_Per_Minute')[['Player', 'Points_Per_Minute', 'Poin
 # PART 6: SAVE RESULTS
 # ============================================
 df.to_csv('../outputs/analysis_results.csv', index=False)
-print("\n✅ Results saved to outputs/")
+print("\nResults saved to outputs")
