@@ -50,7 +50,7 @@ This rule changed how coaches manage minutes. Players who want awards must play 
 | All-NBA 1st Team | Nikola Jokic            | 2736.5         | #12                   | 26.4            |
 | All-NBA 1st Team | Jayson Tatum            | 2645.2         | #15                   | 27.0            |
 
-**Key observation:** Minutes played varies widely among award winners. Jokic played 2736 minutes (rank #12). Gobert played 2593 minutes (rank #22) and won DPOY primarily through defense, not scoring — he averaged only 14.0 points per game. Minutes alone do not determine award-worthiness.
+**Key observation:** Minutes played varies widely among award winners. Jokic played 2736 minutes (rank #12). Gobert played 2593 minutes (rank #22) and won DPOY primarily through defense, not scoring as he averaged only 14.0 points per game. Minutes alone do not determine award-worthiness.
 
 ---
 
